@@ -1,0 +1,15 @@
+.Tilt {
+    background: linear-gradient(90deg, #ccabd8, #86e3ce);
+    height: 150px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+}
+
+.Tilt-inner {
+    padding: 5px;
+}
+
+.Tilt-img {
+    width: 90%;
+}
